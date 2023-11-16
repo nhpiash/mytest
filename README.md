@@ -95,9 +95,9 @@ console.log(con);
 - Item3
 
 ### Task List
--[X] Task 1
--[X] Task 2
--[] Task 2
+- [x] Task 1
+- [x] Task 2
+- [] Task 2
 ### enable Link
 https://fiverr.com/
 ### disable Link
