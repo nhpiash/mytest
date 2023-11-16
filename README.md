@@ -94,21 +94,25 @@ console.log(con);
     - Item3
 - Item3
 
+### Task List
+-[X] Task 1
+-[X] Task 2
+-[] Task 2
 ### enable Link
-https://fiverr.com/web_designer08
+https://fiverr.com/
 ### disable Link
-`https://fiverr.com/web_designer08`
+`https://fiverr.com`
 
 ### Mark Down Syntax for create link
-[Hire Me](https://fiverr.com/web_designer08)
+[Hire Me](https://fiverr.com/)
 
 ### Link Array 
 [Facebook][fblink]  
 [Website Link][weblink]  
 
-[fblink]:[https://fiverr.com/web_designer08]
+[fblink]:[https://fiverr.com/]
 
-[weblink]:[https://fiverr.com/web_designer08]
+[weblink]:[https://fiverr.com/]
 
 
 ### Image Showing Syntax Mark Down
@@ -120,13 +124,6 @@ https://fiverr.com/web_designer08
 ### Mark Down Table Syntax
  | Name | Email|
  |------|------|
- |Nazmul Hasan Piash| contact.nhpiash@gmail.com|
- |Nazmul Hasan Piash| contact.nhpiash@gmail.com|
- |Nazmul Hasan Piash| contact.nhpiash@gmail.com|
- |Nazmul Hasan Piash| contact.nhpiash@gmail.com|
- |Nazmul Hasan Piash| contact.nhpiash@gmail.com|
- |Nazmul Hasan Piash| contact.nhpiash@gmail.com|
- |Nazmul Hasan Piash| contact.nhpiash@gmail.com|
- |Nazmul Hasan Piash| contact.nhpiash@gmail.com|
- |Nazmul Hasan Piash| contact.nhpiash@gmail.com|
+ |Nazmul Hasan Piash| demo@gmail.com|
+
     
